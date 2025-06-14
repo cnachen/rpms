@@ -1,7 +1,7 @@
 %define debug_package %{nil}
 
 Name:           frp
-Version:        0.54.0
+Version:        0.62.1
 Release:        2%{?dist}
 Summary:        A fast reverse proxy
 
